@@ -1,0 +1,15 @@
+streamlit
+requests
+fastapi
+ultralytics
+opencv-python
+pillow
+numpy
+torch
+
+
+
+
+
+
+
